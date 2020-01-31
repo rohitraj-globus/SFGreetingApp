@@ -1,4 +1,4 @@
-# defaultApp
+# SalesForce Greeting App
 
 Here will be some information about the app.
 
